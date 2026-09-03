@@ -7,12 +7,6 @@
 Software engineering student at UNICSUL, graduated in Fullstack Development at Trybe.
 Great enthusiast of Backend development and Cyber Security.
 
-![Gabzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabzzz-dias&show_icons=true&theme=radical&hide=issues,contribs)
-
-## Main Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabzzz-dias&layout=compact&theme=radical)
-
 ## Main Stacks
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
